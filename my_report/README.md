@@ -1,9 +1,9 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital-Storytelling-Individual-Assignment: xxx
+### First and Last Name: Άννα Μητσιάνη 
+### University Registration Number: dpsd19074
+### GitHub Personal Profile:https:
+### Digital-Storytelling-Individual-Assignment: https://github.com/AnnaMitsiani/Digital-Storytelling-Individual-Assignment
 
 # Introduction
 
