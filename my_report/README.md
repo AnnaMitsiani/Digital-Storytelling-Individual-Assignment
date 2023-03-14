@@ -18,12 +18,15 @@ Unit 2: Αρχικά τα διαφορετικά κτήρια και τα υλι
 
 ![Screenshot (147)](https://user-images.githubusercontent.com/101416820/225140756-ffacd367-3fa5-45a9-a6af-07fcac74bae7.png)
 ![Screenshot (148)](https://user-images.githubusercontent.com/101416820/225140879-3edf9cb9-c8a4-4df1-934a-0bf25e38a7a4.png)
+ 
  Για το υλικο χρησιμοποίησα φωτογραφία και την ρυθμισα ως alpha blended
  
 2)
 
 ![Screenshot (151)](https://user-images.githubusercontent.com/101416820/225141400-16a9b7ce-22ce-47d5-8437-519d3ae561bb.png)
 ![Screenshot (152)](https://user-images.githubusercontent.com/101416820/225141425-dbc75c33-87c7-49e0-8c02-39033fec9136.png)
+
+Γι' αυτό το κτήριο χρησιμοποίησα 5 διαφορετικά υλικά
 
 3)
 
