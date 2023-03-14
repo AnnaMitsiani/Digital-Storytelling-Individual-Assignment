@@ -12,11 +12,15 @@
 
 
 # 1st Deliverable
-Unit 2:  Για το μέρος αυτού του παραδοτέου δημιουργησα μια σκηνή ατυχήματος μια δυο ταξι που έχουν τρακάρει και έχω 
-δημιουργήσει τα αντίστοιχα αντκείμενα: 1) κώνος, 2) Οδόφραγμα 1, 3) οδόφραγμα 2. Φαίνονται αντίστοιχα παρακάτω:
+Unit 2:  Για το μέρος αυτού του παραδοτέου δημιουργησα μια σκηνή ατυχήματος μια δυο ταξι που έχουν τρακάρει.
+Αρχικά έχω χρησιμοποιήσει τα έτοιμα props:
+Επιπλέον έχω δημιουργήσει τα αντίστοιχα αντκείμενα μέσω ProBuilder: 1) κώνος, 2) Οδόφραγμα 1, 3) οδόφραγμα 2. Φαίνονται αντίστοιχα παρακάτω:
+
 ![Screenshot (141)](https://user-images.githubusercontent.com/101416820/225126646-74f01623-03bc-4b2b-9e35-8bfe5d0d3984.png)
 ![Screenshot (145)](https://user-images.githubusercontent.com/101416820/225126928-a90eb766-dbe0-421e-9304-ca0dec4319ce.png)
 ![Screenshot (144)](https://user-images.githubusercontent.com/101416820/225127020-71085568-75e7-4e80-a762-cacfbfafd3c8.png)
+
+Τα έτοιμα props που
 
 ![Screenshot (139)](https://user-images.githubusercontent.com/101416820/225124600-b55f609a-25f8-4c4d-8fec-8054b16cf096.png)
 ![Screenshot (140)](https://user-images.githubusercontent.com/101416820/225124985-5d4fd4d5-f82d-47cb-9631-17804ec32389.png)
