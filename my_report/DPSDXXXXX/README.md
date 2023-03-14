@@ -1,8 +1,8 @@
 
 # Lesson: Digital & Serious Games
 
-### First and Last Name: Άννα Μητσιάνη 
-### University Registration Number: dpsd19074
+### First and Last Name: 
+### University Registration Number:
 ### GitHub Personal Profile: https://github.com/dpsd18139
 ### Digital & Serious Games Personal Repository: https://dpsd18139.github.io/Role-Playing-Game/
 
