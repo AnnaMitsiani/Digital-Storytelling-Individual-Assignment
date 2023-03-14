@@ -8,6 +8,12 @@
 # Introduction
 Ονομάζομαι Άννα Μητσιάνη και φοιτώ στο 4ο έτος του Τμήματος Σχεδίασης Προϊόντων και Συστημάτων του Πανεπιστημίου Αιγαίου.
 
+# Summary
+
+
+# 1st Deliverable
+Unit 2:  
+
 ![Screenshot (139)](https://user-images.githubusercontent.com/101416820/225124600-b55f609a-25f8-4c4d-8fec-8054b16cf096.png)
 ![Screenshot (140)](https://user-images.githubusercontent.com/101416820/225124985-5d4fd4d5-f82d-47cb-9631-17804ec32389.png)
 ![Screenshot (137)](https://user-images.githubusercontent.com/101416820/225125193-985a3b0a-b551-47ea-b3da-40808164a7f3.png)
@@ -18,11 +24,6 @@
 ![Screenshot (144)](https://user-images.githubusercontent.com/101416820/225127020-71085568-75e7-4e80-a762-cacfbfafd3c8.png)
 ![Screenshot (143)](https://user-images.githubusercontent.com/101416820/225127127-259583fa-0e48-4fb9-8095-a5be7eecf16d.png)
 
-# Summary
-
-
-# 1st Deliverable
-Unit 2:  
 
 # 2nd Deliverable
 
