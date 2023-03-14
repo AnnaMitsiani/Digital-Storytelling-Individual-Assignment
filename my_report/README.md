@@ -34,6 +34,7 @@ Unit 3:  Για το μέρος αυτού του παραδοτέου δημι�
 ![Screenshot (144)](https://user-images.githubusercontent.com/101416820/225127020-71085568-75e7-4e80-a762-cacfbfafd3c8.png)
 
 
+
 Επιπλέον Δημιούργησα pointlights και spotlights. Παρακάτω υπάρχουν γενικές γωτογραφίες της σκηνής.
 
 ![Screenshot (139)](https://user-images.githubusercontent.com/101416820/225124600-b55f609a-25f8-4c4d-8fec-8054b16cf096.png)
