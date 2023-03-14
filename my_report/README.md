@@ -91,12 +91,38 @@ Unit 3:  Για το μέρος αυτού του παραδοτέου δημι�
 
 
 
-Επιπλέον Δημιούργησα pointlights και spotlights. Παρακάτω υπάρχουν γενικές γωτογραφίες της σκηνής.
+Επιπλέον Δημιούργησα pointlights και spotlights. Παρακάτω υπάρχουν γενικές φωτογραφίες της σκηνής.
 
 ![Screenshot (139)](https://user-images.githubusercontent.com/101416820/225124600-b55f609a-25f8-4c4d-8fec-8054b16cf096.png)
 ![Screenshot (137)](https://user-images.githubusercontent.com/101416820/225125193-985a3b0a-b551-47ea-b3da-40808164a7f3.png)
 ![Screenshot (136)](https://user-images.githubusercontent.com/101416820/225125336-53c12bb2-6bd4-43f5-8611-844b38cf3402.png)
 ![Screenshot (133)](https://user-images.githubusercontent.com/101416820/225126082-f796d52b-5a78-46a3-b5c1-200334c561e0.png)
+
+
+Έπειτα για το Unit 4:
+
+![Screenshot (169)](https://user-images.githubusercontent.com/101416820/225154687-4a857a4d-375e-4ffc-a27c-2402f9f78a2d.png)
+
+Για αυτό το μέρος του παραδοτέου έχω ρυθμίσει την κινηση της κάμερας ως loop 
+
+![Screenshot (162)](https://user-images.githubusercontent.com/101416820/225155017-5bb3ef1c-0872-4d47-b01e-1303eabfaca6.png)
+ 
+ 
+ Εχω ορίσει τις κινήσεις τεσσάρων ταξί
+ 
+![Screenshot (170)](https://user-images.githubusercontent.com/101416820/225155289-bc57d492-a79e-4bdb-bf33-3e3b0e368549.png)
+
+Τριων ανθρώπων και πεντε γατών που είτε κάθονται είτε τέχουν, κάνουν άλμα είτε περπατούν.
+![Screenshot (161)](https://user-images.githubusercontent.com/101416820/225155764-12d30abe-a51d-4094-9f79-e7067b4c94ad.png)
+
+Παρακάτω υπάρχουν μερικά στιγμιοτυπα του animation μου
+
+![Screenshot (163)](https://user-images.githubusercontent.com/101416820/225155808-88c1c34e-dda7-4de9-9e22-f0709e8502e0.png)
+![Screenshot (165)](https://user-images.githubusercontent.com/101416820/225155828-acd54024-0a33-4738-b3d0-c698feae3d09.png)
+![Screenshot (166)](https://user-images.githubusercontent.com/101416820/225155838-efb97450-c112-418a-8136-5ac22aa242a0.png)
+![Screenshot (167)](https://user-images.githubusercontent.com/101416820/225155855-2493783c-fcda-45af-ba87-5711fe34b350.png)
+![Screenshot (168)](https://user-images.githubusercontent.com/101416820/225155884-644b35f9-9f2d-4cc9-8f49-d249823a5859.png)
+
 
 
 
@@ -110,6 +136,7 @@ Unit 3:  Για το μέρος αυτού του παραδοτέου δημι�
 
 
 # Sources
+
 Για το 1ο παραδοτέο:
 https://www.youtube.com/watch?v=UllkvfMR96s
 https://learn.unity.com/project/unit-2-realtime-previsualization?uv=2019.4&courseId=5ee00851edbc2a0022274f75
