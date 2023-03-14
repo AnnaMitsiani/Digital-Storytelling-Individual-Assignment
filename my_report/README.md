@@ -134,8 +134,8 @@ Unit 3:  Για το μέρος αυτού του παραδοτέου δημι�
 
 
 # Sources
-
 Για το 1ο παραδοτέο:
+
 https://www.youtube.com/watch?v=UllkvfMR96s
 https://learn.unity.com/project/unit-2-realtime-previsualization?uv=2019.4&courseId=5ee00851edbc2a0022274f75
 https://learn.unity.com/project/unit-3-environment-modeling-set-dressing-in-unity?uv=2019.4&courseId=5ee00851edbc2a0022274f75
