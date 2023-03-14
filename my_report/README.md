@@ -12,7 +12,8 @@
 
 
 # 1st Deliverable
-Unit 2:  
+Unit 2:  Για το μέρος αυτού του παραδοτέου δημιουργησα μια σκηνή ατυχήματος μια δυο ταξι που έχουν τρακάρει και έχω 
+δημιουργήσει τα αντίστοιχα αντκείμενα: 1) κώνος, 2) Οδόφραγμα 1, 3) οδόφραγμα 2.
 
 ![Screenshot (139)](https://user-images.githubusercontent.com/101416820/225124600-b55f609a-25f8-4c4d-8fec-8054b16cf096.png)
 ![Screenshot (140)](https://user-images.githubusercontent.com/101416820/225124985-5d4fd4d5-f82d-47cb-9631-17804ec32389.png)
