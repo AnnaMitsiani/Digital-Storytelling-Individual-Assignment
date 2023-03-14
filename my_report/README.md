@@ -42,11 +42,17 @@ Unit 2: Αρχικά τα διαφορετικά κτήρια και τα υλι
 
 
 
+
 Το middleground, το foreground και το background φαίνονται παρακάτω:
 
 ![Screenshot (156)](https://user-images.githubusercontent.com/101416820/225143894-8d327145-8981-4eca-80d1-d970b034652c.png)
 ![Screenshot (155)](https://user-images.githubusercontent.com/101416820/225144101-019c3f12-d355-47a7-aa91-8b9431425adc.png)
 ![Screenshot (154)](https://user-images.githubusercontent.com/101416820/225144141-fc189806-6cd5-480e-b3fb-012244622031.png)
+
+Επιπλέον ρύθμισα το directional light έτσι ώστε να θυμίζει πρωινές ώρες μετά την ανατολή και έδωσα διφορετικό χρώμα από το λευκο. Οι ρυθμίσεις αυτές φαίνονται παρακάτω:
+
+![Screenshot (157)](https://user-images.githubusercontent.com/101416820/225146193-a76ea07b-4bb6-46d7-96bc-438e8b48c315.png)
+
 
 
 Unit 3:  Για το μέρος αυτού του παραδοτέου δημιουργησα μια σκηνή ατυχήματος με δυο ταξι που έχουν τρακάρει.
