@@ -18,6 +18,7 @@ Unit 2: Αρχικά τα διαφορετικά κτήρια και τα υλι
 
 ![Screenshot (147)](https://user-images.githubusercontent.com/101416820/225140756-ffacd367-3fa5-45a9-a6af-07fcac74bae7.png)
 ![Screenshot (148)](https://user-images.githubusercontent.com/101416820/225140879-3edf9cb9-c8a4-4df1-934a-0bf25e38a7a4.png)
+ Για το υλικο χρησιμοποίησα φωτογραφία και την ρυθμισα ως alpha blended
  
 2)
 
@@ -42,16 +43,23 @@ Unit 2: Αρχικά τα διαφορετικά κτήρια και τα υλι
 
 
 
-
 Το middleground, το foreground και το background φαίνονται παρακάτω:
 
 ![Screenshot (156)](https://user-images.githubusercontent.com/101416820/225143894-8d327145-8981-4eca-80d1-d970b034652c.png)
 ![Screenshot (155)](https://user-images.githubusercontent.com/101416820/225144101-019c3f12-d355-47a7-aa91-8b9431425adc.png)
 ![Screenshot (154)](https://user-images.githubusercontent.com/101416820/225144141-fc189806-6cd5-480e-b3fb-012244622031.png)
 
+
 Επιπλέον ρύθμισα το directional light έτσι ώστε να θυμίζει πρωινές ώρες μετά την ανατολή και έδωσα διφορετικό χρώμα από το λευκο. Οι ρυθμίσεις αυτές φαίνονται παρακάτω:
 
 ![Screenshot (157)](https://user-images.githubusercontent.com/101416820/225146193-a76ea07b-4bb6-46d7-96bc-438e8b48c315.png)
+
+
+Τέλος, δημιούργησα ένα νέο prefab για ομίχλη (από φωτογραφία).
+
+![Screenshot (159)](https://user-images.githubusercontent.com/101416820/225148772-097e6089-6c82-45a6-b6ed-11604b3c2379.png)
+![Screenshot (158)](https://user-images.githubusercontent.com/101416820/225148779-d7c9c384-9470-4d22-a9ba-44918761d7d4.png)
+![Screenshot (160)](https://user-images.githubusercontent.com/101416820/225148793-a7ddc031-9bc9-41ed-8877-bab9b658d1c4.png)
 
 
 
@@ -97,3 +105,9 @@ Unit 3:  Για το μέρος αυτού του παραδοτέου δημι�
 
 
 # Sources
+Για το 1ο παραδοτέο:
+https://www.youtube.com/watch?v=UllkvfMR96s
+https://learn.unity.com/project/unit-2-realtime-previsualization?uv=2019.4&courseId=5ee00851edbc2a0022274f75
+https://learn.unity.com/project/unit-3-environment-modeling-set-dressing-in-unity?uv=2019.4&courseId=5ee00851edbc2a0022274f75
+https://learn.unity.com/project/unit-4-creating-an-animatic-a-preliminary-version-of-an-animation?uv=2019.4&courseId=5ee00851edbc2a0022274f75
+
