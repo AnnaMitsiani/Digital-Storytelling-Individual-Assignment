@@ -12,37 +12,45 @@
 
 
 # 1st Deliverable
-Unit 2: Αρχικά τα διαφορετικά κτήρια και τα υλικά που δημιουργησα είναι τα παρακάτω:
+Unit 2: Αρχικά τα διαφορετικά υλικά και τα κτήρια που δημιουργησα είναι τα παρακάτω με την χρηση του probuilder:
 
 1)
 
 ![Screenshot (147)](https://user-images.githubusercontent.com/101416820/225140756-ffacd367-3fa5-45a9-a6af-07fcac74bae7.png)
 ![Screenshot (148)](https://user-images.githubusercontent.com/101416820/225140879-3edf9cb9-c8a4-4df1-934a-0bf25e38a7a4.png)
  
- Για το υλικο χρησιμοποίησα φωτογραφία και την ρυθμισα ως alpha blended
+ Για το υλικο χρησιμοποίησα φωτογραφία και την ρυθμισα ως alpha blended 
  
 2)
 
 ![Screenshot (151)](https://user-images.githubusercontent.com/101416820/225141400-16a9b7ce-22ce-47d5-8437-519d3ae561bb.png)
 ![Screenshot (152)](https://user-images.githubusercontent.com/101416820/225141425-dbc75c33-87c7-49e0-8c02-39033fec9136.png)
 
-Γι' αυτό το κτήριο χρησιμοποίησα 5 διαφορετικά υλικά
+Γι' αυτό το κτήριο χρησιμοποίησα 5 διαφορετικά υλικά ενα καφε, ενα πρασινο και μαυρο τζαμι, ενα ανοιχτο γκρι και ενα μεταλλικο μολυβί
 
 3)
 
 ![Screenshot (146)](https://user-images.githubusercontent.com/101416820/225141829-0659d7ac-dcee-4bfb-9ebe-08e781167493.png)
 
+το υλικο εδω ειναι με ασπρο χρωμα
+
 4)
 
 ![Screenshot (150)](https://user-images.githubusercontent.com/101416820/225142006-d70ae50e-20ab-45f6-ad44-6ce13f600bde.png)
+
+το υλικο έχει ενα καφε-γκρι χρωμα
 
 5)
 
 ![Screenshot (149)](https://user-images.githubusercontent.com/101416820/225142095-d7e9794d-6c76-429d-99d6-072395d10f6b.png)
 
+εδω το υλικο ειναι και παλι απο φωτογραφια με καταλληλες ρυθμισεις οπως και πριν 
+
 6)
 
 ![Screenshot (153)](https://user-images.githubusercontent.com/101416820/225142201-56bb2202-9e99-46bd-8421-76d4f4f9071b.png)
+
+Εδω υπαρχει ποικιλια υλικών ενα ανοιχτο γκρι υλικο και ενα σκουρο γκρι, τζαμι κακονικο και φιμέ
 
 
 
