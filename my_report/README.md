@@ -184,7 +184,7 @@ Unit 6: Ξεκίνησα βάζοντας τα φώτα και ορίζοντα�
 ![Screenshot (245)](https://user-images.githubusercontent.com/101416820/232734723-501c00e0-9e8c-402b-b8fe-fce0f9c173b3.png)
 
 
-Άλλαξα τις τιμές για το Bloom effect συσκεκριμένα για το threshold 1.25, το intensity 0.03 και το scatter 0.85 (εικόνα ζ). Όρισα το Lift Gamma Gain και το White Balance όπως τις οδηγίες και μετέβαλα το Motion blur δίνοντας για το intensity την τιμή 0.1 (εικόνα η). Επιπλέον δεν χρησιμοποίησα το Shadows Midtones Highlights.
+Άλλαξα τις τιμές για το Bloom effect συγκεκριμένα για το threshold 1.25, το intensity 0.03 και το scatter 0.85 (εικόνα ζ). Όρισα το Lift Gamma Gain και το White Balance όπως τις οδηγίες και μετέβαλα το Motion blur δίνοντας για το intensity την τιμή 0.1 (εικόνα η). Επιπλέον δεν χρησιμοποίησα το Shadows Midtones Highlights.
 
 εικόνα ζ
 
