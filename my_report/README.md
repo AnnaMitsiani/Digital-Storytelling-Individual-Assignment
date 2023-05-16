@@ -236,18 +236,23 @@ Unit 7: Αρχικά επεξεργάστηκα όλα τα φώτα της ετ
 Ξεκίνησα φτιάχνοντας νέο terrain και διαμορφώνοντάς το να έχει λόφους διάφορων υψων με χρήση κατάλληλων πινέλων του terrain toolbox (φωτογραφία 1). Πρόσθεσα στο έδαφος υλικό με το μοτίβο γρασιδιού και άνοιξα μονομάτια με υλικό που έχει μοτίβο χώματος. Στην συνέχεια τοποθέτησα δύο ειδών δέντρα (φωτογραφία 2) από το πακέτο των asset του περιβάλλοντος που κατέβασα από το asset store, δυο ειδών λουλούδια (φωτογραφία 3, 4), μανιτάρια (φωτογραφία 5) και βράχους (φωτογραφία 6). 
 
 Φωτογραφια 1
+
 ![Screenshot (265)](https://github.com/AnnaMitsiani/Digital-Storytelling-Individual-Assignment/assets/101416820/b26a4890-58bc-4ce4-bfbc-1de1338a8e61)
 
 Φωτογραφία 2
+
 ![Screenshot (266)](https://github.com/AnnaMitsiani/Digital-Storytelling-Individual-Assignment/assets/101416820/b3750bf0-137e-40fc-8f2a-f9947efbf508)
 
 Φωτογραφία 3
+
 ![Screenshot (268)](https://github.com/AnnaMitsiani/Digital-Storytelling-Individual-Assignment/assets/101416820/f81713ae-3dfd-466e-83b1-ab84662088f8)
 
 Φωτογραφία 4
+
 ![Screenshot (269)](https://github.com/AnnaMitsiani/Digital-Storytelling-Individual-Assignment/assets/101416820/27ebbe84-5476-4350-a14a-b0c330dee9db)
 
 Φωτογραφία 5
+
 ![Screenshot (270)](https://github.com/AnnaMitsiani/Digital-Storytelling-Individual-Assignment/assets/101416820/5af18b8f-6d92-41c9-ae7c-458ad93ff5f7)
 
 
