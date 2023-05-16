@@ -233,6 +233,8 @@ Unit 7: Αρχικά επεξεργάστηκα όλα τα φώτα της ετ
 # 3rd Deliverable 
 Παραδοτέο: https://youtu.be/eySKZfCwhCk
 
+Ξεκι΄νησα φτιάχνοντας νέο terrain και διαμορφώνοντάς το να έχει λόφους διάφορων υψων. Πρόσθεσα στο έδαφος υλικό με το μοτίβο γρασιδιού και άνοιξα μονομάτια με υλικό που έχει μοτίβο χώματος. 
+
 # Conclusions
 
 
@@ -250,3 +252,5 @@ https://learn.unity.com/project/unit-5-create-compelling-shots-using-virtual-cam
 https://learn.unity.com/project/unit-6-adding-visual-fidelity-through-lighting?uv=2019.4&courseId=5ee00851edbc2a0022274f75
 https://learn.unity.com/project/unit-7-effects-and-final-render?uv=2019.4&courseId=5ee00851edbc2a0022274f75
 https://www.youtube.com/watch?v=X5QEh9DmD7o&ab_channel=AqsaNadeem
+
+Για το 3ο παραδοτέο
