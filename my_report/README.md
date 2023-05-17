@@ -271,10 +271,14 @@ Unit 7: Αρχικά επεξεργάστηκα όλα τα φώτα της ετ
 
 ![Screenshot (297)](https://github.com/AnnaMitsiani/Digital-Storytelling-Individual-Assignment/assets/101416820/7040b821-91e2-4b1f-96b6-7cf37a1275b0)
 
-Έπειτα όρισα κάποια post processing effects ώστε η εικόνα να φτάσει εκεί που ήθελα. Συγκεκριμένα tonemapping σε mode ACES (φωτογραφία 10), bloom με τις ρυθμίσεις που φαίνονται στην φωτογραφία 11
+Έπειτα όρισα κάποια post processing effects ώστε η εικόνα να φτάσει εκεί που ήθελα. Συγκεκριμένα tonemapping σε mode neutral, bloom και lift gamma gain με τις ρυθμίσεις που φαίνονται στην φωτογραφία 11. Τέλος χρειάζεται να αναφέρω ότι στο πάρκο έχει ένα σιγανό αεράκι (ο αερας εμφανίστηκε στο render καθως τα μωβ λουλούδια ήταν animated από το πακέτο που χρησιμοποίησα) και έτσι έβαλα ήχο αερά της κατάλληλες έντασης (ώστε να φαίνεται ότι είναι σιγανός), χρησιμοποίησα ήχους πουλιών που αφού έχει δοθεί η εκκίνηση υποστηρίζουν την μία γατα το ένα από αυτά και την άλλη γάτα ένα από τα υπόλοιπα, ήχο γαβγίσματος και ήχο γάτας. Τελικό βήμα ήταν να δώσω τίτλο στο animation με την γραμματοσειρά και τα χρώματα που επέλεξα και να ορίσω το πότε θα φανεί και πότε θα εξαφανίζεται.
 
+Φωτογραφία 11
 
-Επιπλέον φωτογραφίες
+![Screenshot (299)](https://github.com/AnnaMitsiani/Digital-Storytelling-Individual-Assignment/assets/101416820/051c03ae-151d-479d-8850-ce28ef691c28)
+
+Επιπλέον φωτογραφίες σκηνής:
+
 ![Screenshot (273)](https://github.com/AnnaMitsiani/Digital-Storytelling-Individual-Assignment/assets/101416820/509866e0-a7af-420d-8a6a-fe2ea363ec3c)
 ![Screenshot (274)](https://github.com/AnnaMitsiani/Digital-Storytelling-Individual-Assignment/assets/101416820/60cece88-8047-4380-a900-33257ffeb8fb)
 
