@@ -232,7 +232,7 @@ Unit 7: Αρχικά επεξεργάστηκα όλα τα φώτα της ετ
 
 # 3rd Deliverable 
 Παραδοτέο:ON YOUR MARKS στο youtube: https://youtu.be/eySKZfCwhCk
-το παραθέτω και εδώ:
+Για να μπορέσω να το ανεβάσω εδώ λόγω μεγέθους έριξα την ποιότητα (όπως και στα dailies όπου το ανάβασα) στο λίνκ που έδωσα προηγουμένως ύπαρχει με την κανονική ανάλυση 4Κ
 
 https://github.com/AnnaMitsiani/Digital-Storytelling-Individual-Assignment/assets/101416820/b4f951ff-f993-4ee8-a3b0-18d76dc5a5b8
 
